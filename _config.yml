@@ -1,0 +1,28 @@
+name: GerhardBock
+favicon: null
+layout_spectrum: 0.4640512152109295
+typography_spectrum: 0.674445163924247
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.143664195202291
+  lightness: 0.3146293698810041
+  saturation: 0.10907386848703027
+  rhythmicContrast: 0.1206324037630111
+purpose: []
